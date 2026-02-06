@@ -90,7 +90,7 @@
         },
         {
           "name": "Speed",
-          "ioValue": 25
+          "ioValue": 2.5
         },
         {
           "name": "Cut Through",
